@@ -1,0 +1,75 @@
+.container {
+    margin-bottom: 100px;
+}
+.orange-bg {
+    background-color: #FCEAE8;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.price {
+    color: #FF136F;
+}
+
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: 0;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
+    border-radius: 10px
+}
+
+.cat1 {
+    background-color: orange;
+}
+
+.cat2 {
+    background-color: orchid;
+}
+
+.cat3 {
+    background-color: blue;
+}
+
+.catacori h1 {
+    color: #fff;
+}
+
+.catacori img {
+    width: 100px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+#subscribe {
+    height: 300px;
+}
+#subscribe h6 {
+    color: gray;
+}
+footer {
+    text-align: center;
+}
